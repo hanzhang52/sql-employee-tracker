@@ -26,5 +26,5 @@ VALUES
 ("Pat", "Jones", 5), 
 ("Lorenzo", "Holloway", 6), 
 ("Alice", "Lane", 7), 
-("Dominic", "Gordon", 5), 
-("Maggie", "Banks", 4); 
+("Dominic", "Gordon", 4), 
+("Maggie", "Banks", 1); 
